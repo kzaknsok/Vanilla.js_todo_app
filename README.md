@@ -1,2 +1,2 @@
-# Vanilla.js_todo_app
+# Vanilla.js_ToDo
 Created with CodeSandbox
